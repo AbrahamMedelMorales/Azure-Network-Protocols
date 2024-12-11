@@ -44,26 +44,26 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 **"Note:"** It may take a few minutes and several refresh attempts for the Virtual Network to appear as an option in the dropdown menu." <br>
 
-<h2>Actions and Observations</h2>
+<h2>Installing Wireshark into our Windows VM</h2>
 
-<p>
-<img src="" height="80%" width="80%" alt=""/>
+1. Start your Windows VM and open up a web browser.
+
+2. Head to [Wireshark](www.wireshark.org) and download **"Wireshark x64"**
+
+<p align=center>
+<img src="https://i.imgur.com/RDHGIkM.png" height="70%" width="70%" alt="Download WireShark"/>
 </p>
-<p>
 
+3. Install Wireshark. (Click through the installation without changing any of the settings)
+
+<p align=center>
+<img src="https://i.imgur.com/CFbolrt.png" height="70%" width="70%" alt="Install Wireshark"/>
 </p>
-<br />
 
-<p>
-<img src="" height="80%" width="80%" alt=""/>
-</p>
-<p>
 
-</p>
-<br />
 
-<p>
-<img src="" height="80%" width="80%" alt=""/>
+<p align=center>
+<img src="" height="70%" width="70%" alt=""/>
 </p>
 <p>
 
