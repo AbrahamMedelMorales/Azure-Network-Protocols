@@ -60,11 +60,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/CFbolrt.png" height="70%" width="70%" alt="Install Wireshark"/>
 </p>
 
-
+4. Open Wireshark, we will now analyze the traffic between our VM's.
 
 <p align=center>
-<img src="" height="70%" width="70%" alt=""/>
+<img src="https://i.imgur.com/cMlyQxN.png" height="70%" width="70%" alt="Wireshark"/>
 </p>
-<p>
 
-<br />
+<h2>Actions and Observations</h2>
